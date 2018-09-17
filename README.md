@@ -12,6 +12,10 @@ This repository contains a coding demo project as requested by flexReceipts.
     
 ## Usage
 ### Deployment
+The sturdy-engine.jar file is available to deploy this application.
+[sturdy-engine/out/artifacts/sturdy_engine_jar.zip]
+
+Unpack this directory, and run sturdy-engine.jar from your JVM to deploy the application.
 
 ### Rest Endpoints
 <table>
